@@ -19,8 +19,11 @@ Esse projeto é um sistema CRUD(Create, Read, Update e Delete) responsivel, dese
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li> 
+<li>Typescript</li>
+<li>Prisma ORM</li>
+<li>Express</li>
 </ul>
 <h2> Banco de Dados </h2>
 <ul>
-<li>Oracle DataBase</li>
+<li>SQLite</li>
 </ul>
